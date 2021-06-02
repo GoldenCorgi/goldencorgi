@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldencorgi&show_icons=true&locale=en&count_private=true&hide=stars&theme=tokyonight" alt="goldencorgi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldencorgi&" alt="goldencorgi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=goldencorgi" alt="goldencorgi" /></p>
